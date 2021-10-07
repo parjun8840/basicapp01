@@ -1,3 +1,6 @@
+[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+![|](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 # This is a basic Python Application for Movie List
 
 ### Uses Sqlite DB and Python 3.9+
